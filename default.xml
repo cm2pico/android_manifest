@@ -125,9 +125,9 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" revision="ics" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" remote="github" revision="ics" />
-  <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
+  <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" remote="github" revision="ics" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="github" revision="ics" />
-  <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
+  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="github" revision="ics" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="ics" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" remote="github" revision="ics" />
@@ -140,7 +140,7 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/support" name="platform/frameworks/support" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
+  <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="github" revision="ics" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="github" revision="ics" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" revision="ics" />
