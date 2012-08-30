@@ -213,7 +213,7 @@
   <project path="system/core" name="platform/system/core" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/vold" name="platform/vold" />
-  <project path="device/htc/pico" name="sakindia123/oxygn-pico" revision="master" remote="github" />
+  <project path="device/htc/pico" name="sakindia123/oxygen-pico" revision="master" remote="github" />
   <project path="vendor/htc/pico" name="sakindia123/ics-vendor-pico" revision="master" remote="github" />
   <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
   <project path="vendor/google" name="popdog123/android_vendor_google" revision="ics" remote="github" />
