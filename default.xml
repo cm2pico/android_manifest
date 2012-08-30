@@ -197,22 +197,22 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" revision="ics" remote="github" />
-  <project path="external/skia" name="oxygen-rom-ics/android_external_skia" revision="ics" remote="github" />
-  <project path="frameworks/base" name="popdog123/android_frameworks_base" revision="ics" remote="github" />
-  <project path="frameworks/compile/slang" name="oxygen-rom-ics/android_frameworks_compile_slang" revision="ics" remote="github" />
+  <project path="external/skia" name="platform/skia" />
+  <project path="frameworks/base" name="platform/frameworks/base" />
+  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" revision="ics" remote="github" />
-  <project path="packages/apps/Browser" name="oxygen-rom-ics/android_packages_apps_browser" revision="ics" remote="github" />
-  <project path="packages/apps/Bluetooth" name="oxygen-rom-ics/android_packages_apps_bluetooth" revision="ics" remote="github" />
-  <project path="packages/apps/Camera" name="oxygen-rom-ics/android_packages_apps_camera" revision="ics" remote="github" />
-  <project path="packages/apps/Contacts" name="oxygen-rom-ics/android_packages_apps_contacts" revision="ics" remote="github" />
-  <project path="packages/apps/Mms" name="oxygen-rom-ics/android_packages_apps_mms" revision="ics" remote="github" />
-  <project path="packages/apps/Phone" name="popdog123/android_packages_apps_phone" revision="ics" remote="github" />
-  <project path="packages/apps/Settings" name="oxygen-rom-ics/android_packages_apps_settings" revision="ics" remote="github" />
-  <project path="packages/providers/ContactsProvider" name="oxygen-rom-ics/android_packages_providers_contactsprovider" revision="ics" remote="github" />
-  <project path="packages/providers/DownloadProvider" name="oxygen-rom-ics/android_packages_providers_downloadprovider" revision="ics" remote="github" />
-  <project path="system/core" name="popdog123/android_system_core" revision="ics" remote="github" />
-  <project path="system/media" name="oxygen-rom-ics/android_system_media" revision="ics" remote="github" />
-  <project path="system/vold" name="oxygen-rom-ics/android_system_vold" revision="ics" remote="github" />
+  <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
+  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
+  <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
+  <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
+  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
+  <project path="packages/apps/Phone" name="platform/packages/apps/Phone" />
+  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" />
+  <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
+  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider"  />
+  <project path="system/core" name="platform/system/core" />
+  <project path="system/media" name="platform/system/media" />
+  <project path="system/vold" name="platform/vold" />
   <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
   <project path="vendor/google" name="popdog123/android_vendor_google" revision="ics" remote="github" />
   <project path="vendor/oxygen" name="popdog123/android_vendor_oxygen" revision="ics" remote="github" />
@@ -229,4 +229,4 @@
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" revision="ics" remote="github" />
   <project path="system/extras/su" name="ChainsDD/su-binary" revision="gc-ics" remote="github" />
 
-</manifest>
+</manifest><?xml version="1.0" encoding="UTF-8"?>
