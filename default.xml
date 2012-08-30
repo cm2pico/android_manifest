@@ -197,7 +197,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" revision="ics" remote="github" />
-  <project path="external/skia" name="platform/skia" />
+  <project path="external/skia" name="platform/external/skia" />
   <project path="frameworks/base" name="platform/frameworks/base" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" revision="ics" remote="github" />
