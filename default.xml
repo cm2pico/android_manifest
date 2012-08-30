@@ -212,7 +212,7 @@
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider"  />
   <project path="system/core" name="platform/system/core" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/vold" name="platform/vold" />
+  <project path="system/vold" name="CyanogenMod/android_system_vold" revision="ics" remote="github" />
   <project path="device/htc/pico" name="sakindia123/oxygen-pico" revision="master" remote="github" />
   <project path="vendor/htc/pico" name="sakindia123/ics-vendor-pico" revision="master" remote="github" />
   <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
