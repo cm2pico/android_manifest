@@ -213,6 +213,8 @@
   <project path="system/core" name="platform/system/core" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/vold" name="platform/vold" />
+  <project path="device/htc/pico" name="sakindia123/oxygn-pico" revision="master" remote="github" />
+  <project path="vendor/htc/pico" name="sakindia123/ics-vendor-pico" revision="master" remote="github" />
   <project path="vendor/lge" name="popdog123/android_vendor_lge" revision="ics" remote="github" />
   <project path="vendor/google" name="popdog123/android_vendor_google" revision="ics" remote="github" />
   <project path="vendor/oxygen" name="popdog123/android_vendor_oxygen" revision="ics" remote="github" />
@@ -229,4 +231,4 @@
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" revision="ics" remote="github" />
   <project path="system/extras/su" name="ChainsDD/su-binary" revision="gc-ics" remote="github" />
 
-</manifest><?xml version="1.0" encoding="UTF-8"?>
+</manifest>
